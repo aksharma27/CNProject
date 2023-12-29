@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+E:\STUDY MATERIAL\COLLEGE\5th Sem\Networking\PROJECTS\App\.metadata\.plugins\org.eclipse.jdt.core
